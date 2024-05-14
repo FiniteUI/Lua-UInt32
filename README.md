@@ -1,4 +1,4 @@
-This is a library for working with Unsigned 32 Bit Integers in Lua. 
+This is a library for working with Unsigned 32 Bit Integers in Lua 5.4. 
 
 To use the file in a Lua script, add the [UInt32.lua](UInt32.lua) file to the project directory and require it in the main Lua script:
 ```
