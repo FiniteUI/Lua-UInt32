@@ -1,5 +1,7 @@
+# Lua-UInt32
 This is a library for working with Unsigned 32 Bit Integers in Lua 5.4, as well as one for LuaJIT.
 
+## Usage
 To use the file in a Lua 5.4 script, add the [UInt32.lua](UInt32.lua) file to the project directory and require it in the main Lua script:
 ```
 require("UInt32")
